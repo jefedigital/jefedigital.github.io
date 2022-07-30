@@ -1,4 +1,5 @@
 /.quarto/
+/_site/
 .Rproj.user
-*.Rproj
 .DS_Store
+jefedigital.github.io.Rproj
