@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: 'jefedigital'
+  site-url: 'https://jefedigital.github.io'
+  description: 'All models are wrong, but some are useful.'
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

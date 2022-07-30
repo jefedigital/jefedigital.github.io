@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: lumen
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jefedigital
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jeffreyparks
+    - icon: github
+      text: Github
+      href: https://github.com/jefedigital
+
+---
+
+"All models are wrong, but some are useful."
